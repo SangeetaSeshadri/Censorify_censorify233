@@ -1,0 +1,10 @@
+{
+	"name":"censorify_censorify233",
+	"version":"0.0.1",
+	"description":"censored words",
+	"main":"censortext",
+	"repository":{
+		"type":"git",
+		"url":"https://github.com/SangeetaSeshadri/Censorify_censorify233.git";
+	
+	}
